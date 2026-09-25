@@ -1,0 +1,61 @@
+{
+  "format": "revealline-release-descriptors.v1",
+  "releaseId": 396812921,
+  "tagName": "v0.116.1",
+  "assets": [
+    {
+      "id": 588910289,
+      "name": "distribution.zip",
+      "bytes": 595920846,
+      "sha256": "75b8af467e2ab7543d2ac2969781dbf4a1596c81d89bb4e983bc8794f85deaa7"
+    },
+    {
+      "id": 588905389,
+      "name": "distribution.zip.sha256",
+      "bytes": 83,
+      "sha256": "7240a0c1e1694675ec73ff911c537451819b4819d9bd11ce41a066969e87236b"
+    },
+    {
+      "id": 588905392,
+      "name": "manifest.json",
+      "bytes": 208922,
+      "sha256": "3afe4ac7bd960c367ad6e86b74c9a2363bb3f37548510a0b41ef62de9d74d406"
+    },
+    {
+      "id": 588905390,
+      "name": "qualification-evidence-record.json",
+      "bytes": 1989,
+      "sha256": "11e5e5faa03ae03d5c22763f95f6ccf92d5b9545d533325ec090f044bd4d8e11"
+    },
+    {
+      "id": 588905393,
+      "name": "release.json",
+      "bytes": 468,
+      "sha256": "1780206a1f94e0037395a919c3455dbd4a03eca18a80ec41df883fce7f5af9a8"
+    },
+    {
+      "id": 588905388,
+      "name": "source-qualification-evidence.zip",
+      "bytes": 337332,
+      "sha256": "88a005203a4300d3eff0abd29024a8be4703e8d23d256d796b3e99371c8a4775"
+    },
+    {
+      "id": 588905400,
+      "name": "source-qualification.json",
+      "bytes": 14729,
+      "sha256": "6de5752d98250f0bd6feb689e9a42cb853d6786099ad5d033e7f076ab7ef6309"
+    },
+    {
+      "id": 588908512,
+      "name": "source.tar",
+      "bytes": 1691904000,
+      "sha256": "ca5218689cbf262f1113c049b7b458313767c47b2903049671a5a72d89e393c0"
+    },
+    {
+      "id": 588905402,
+      "name": "verification.json",
+      "bytes": 1919,
+      "sha256": "5c5f6f04986dcd21d967e3565325bba6a892314ab7a64973a831b06865ef2720"
+    }
+  ]
+}
